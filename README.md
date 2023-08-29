@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## Iván Rojo
-Hola, soy un ingeniero en computación (egresado de la Facultad de Estudios Superiores Aragón) apasionado por el desarrollo web. Las tecnologías que más disfruto trabajar son Laravel, Django, Node.js, Vue.js, React, MySQL y PostgreSQL. Actualmente me encuentro trabajando como Desarrollador Backend en Global Human Service.
+Hola, soy un ingeniero en computación (egresado de la Facultad de Estudios Superiores Aragón) apasionado por el desarrollo web. Las tecnologías que más disfruto trabajar son Laravel, Django, Node.js, Vue.js, React, MySQL y PostgreSQL. Actualmente me encuentro trabajando como Desarrollador Backend en Grupo PROMASS.
 <div style="
   justify-content: center;
             display: grid;
